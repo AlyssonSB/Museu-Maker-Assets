@@ -1,0 +1,228 @@
+{
+	"obras": [
+{
+      "id": "CYBER GREEN",
+      "titulo": "Cyber Green",
+      "descricao": "Essa obra procura retratar uma história com uma sessão de fotografia, questionando as relações humanas com o meio ambiente, utilizando a arte fotográfica. Um mundo onde se passa no futuro, os humanos esqueceram da importância de apreciar a natureza, deixando de lado os valores importantes e essenciais para a sobrevivência dos seres vivos. As fotos acompanham a vida de um robô encarregado de tirar fotos dos ambientes verdes e lembrar da importância desses lugares no planeta",
+      "tecnica": "Técnica utilizada: Câmera fotográfica.",
+      "autor": "Andy Bento, Davi Silva, Heitor da Silva e Yuri Lima."
+    },
+
+{
+  "id": "ENTRE CONCRETO E RAIZES",
+      "titulo": "Entre Concreto e Raízes",
+      "descricao": "A obra representa a beleza da natureza em contraste com as coisas mais urbanas e a poluição",
+      "tecnica": "fotografia.",
+      "autor": "Hannah Franklin e Nicolas Menezes, 2025."
+    },
+
+{
+  "id": "VERDE ABUNDANTE E FLORES SECRETAS",
+      "titulo": "Verde Abundante e Flores Secretas",
+      "descricao": "A obra busca exaltar a vivacidade da mata",
+      "tecnica": "fotografia",
+      "autor": "Ana Julia De Souza, 2025."
+    },
+
+{
+  "id": "COLETA TRANSPARENTE",
+      "titulo": "Coleta Transparente",
+      "descricao": "Coleta transparente é uma sessão de fotos onde um adolescente - Pedro - retira lixo da cidade e os joga em seu devido lugar. É um incentivo a todos que tenham a consciência de manter o meio ambiente cuidado e um convite àqueles que nunca se confrontaram com essa realidade. Com vistas a criar lugares mais agradáveis e saudáveis para todos",
+      "tecnica": "fotografia com uso da técnica de desfoque.",
+      "autor": "Giovanna Manzoni e Pedro Henrique, 2025."
+    },
+
+{
+  "id": "EM HARMONIA COM A NATUREZA",
+      "titulo": "Em Harmonia com a Natureza",
+      "descricao": "As quatro fotos retratam momentos simples e belos que mostram a conexão natural entre o ser humano e a natureza. Seja ao observar uma borboleta pousada no dedo, caminhar na areia ou entrar no mar durante o pôr do sol, todas as imagens transmitem harmonia, leveza e presença. Elas revelam como a natureza e o ser humano podem coexistir de forma respeitosa e sensível. A luz do sol, o toque da água, o voo de um inseto e as pegadas na areia reforçam a ideia de que fazemos parte desse todo, e que pequenos gestos e momentos são suficientes para lembrar dessa ligação essencial com o mundo natural",
+      "tecnica": "Técnicas: Fotografia.",
+      "autor": "João Pedro Leite, 2025."
+    },
+
+{
+  "id": "ERA UMA VEZ, NATUREZA",
+      "titulo": "Era Uma Vez, Natureza",
+      "descricao": "Um conjunto de fotografias que representam diferentes aspectos da natureza, em seu estado pleno, sua dominação pelas mãos do ser humano e sua morte",
+      "tecnica": "Fotografia e edição.",
+      "autor": "Sarah Little, Matheus Herllain e Gisele das Graças, 2025."
+    },
+
+{
+  "id": "NATUREZA VIVA",
+      "titulo": "Natureza Viva",
+      "descricao": "As fotografias que foram utilizadas foram feitas durante uma viagem para o Estado da Paraíba, PB (2023). As fotos mostram como a natureza possui um grande significado para as populações locais, além do valor econômico e cultural. Além de retratar como o impacto das mudanças climáticas e impactos ambientais afetam diretamente toda a área. É importante destacar que a natureza possui um grande vínculo emocional e a sua preservação é um dos principais objetivos, porém há desafios",
+      "tecnica": "Uso de câmeras digitais.",
+      "autor": "Ariane dos Santos e Levi Fernandes, 2025."
+    },
+{
+  "id": "PARALISACAO DAS ATIVIDADES HUMANAS",
+      "titulo": "Paralisação das Atividades Humanas",
+      "descricao": "Reproduzimos um cenário de paralisação total das atividades humanas, em que foram totalmente acabadas e extintas. A natureza retoma seus lugares no solo, invadindo os espaços urbanos.",
+      "tecnica": "desenho, sombreados, pinturas e contornos.",
+      "autor": "Augusto Farias, Mariana Pereira, Pedro Dutra e Yorran Bilheu, 2025."
+    },
+
+{
+  "id": "FLORESCER NO OLHAR",
+      "titulo": "Florescer no Olhar",
+      "descricao": "As flores trazem sensação de pureza, pois estão ligadas aos olhos (parte mais sensível do corpo humano) e à natureza.",
+      "tecnica": "traçado à caneta e pintura com lápis de cor.",
+      "autor": "Emilly de Sousa, 2025."
+    },
+
+{
+  "id": "PRESSAGIOS DO FIM",
+      "titulo": "Presságios do Fim",
+      "descricao": "A obra representa uma tartaruga marinha morta, com lixo em sua barriga retratados por materiais que mais demoram a se decompor — e ainda com sacola plástica em sua boca e petróleo escorrendo de dentro de si. A obra retrata os impactos de nossas ações na natureza, representando a forma como ela está morrendo aos poucos com nossas próprias ações.",
+      "tecnica": "desenho a lápis grafite com pintura a lápis de cor.",
+      "autor": "Maria Yasmin Farias, 2025."
+    },
+
+{
+  "id": "A ULTIMA ESPERANCA",
+      "titulo": "A Última Esperança",
+      "descricao": "A obra retrata uma flor que sobrou em meio a um mundo destruído pelo ser humano. A ideia é representar que, mesmo em meio ao caos do aquecimento global causado pela ação humana, ainda resta a esperança de um mundo melhor",
+      "tecnica": "traçado à lápis grafite e pintura com lápis de cor.",
+      "autor": "Isabella Aguiar, Maria Júlia Passeri e Sabrina Avelino, 2025."
+    },
+
+{
+  "id": "ESBOCO DE UM FUTURO",
+      "titulo": "Esboço de um Futuro",
+      "descricao": "Esta obra representa um futuro próximo, no qual árvores e elementos da natureza se tornarão tão raros, que passarão a ser exibidos em museus, como se fossem obras de arte antigas. A cena mostra pessoas visitando uma exposição em 2060, admirando algo que deveria estar vivo do lado de fora: um simples pé de árvore. A ideia é alertar sobre como a humanidade pode chegar a um ponto em que aquilo que hoje é comum e essencial – a natureza – se torne apenas uma lembrança, guardada atrás de vitrines, por descuido e destruição do meio ambiente",
+      "tecnica": "traçado à caneta.",
+      "autor": "Anna Beatriz Almeida, 2025."
+    },
+
+{
+  "id": "A NATUREZA NO CENTRO",
+      "titulo": "A Natureza no Centro",
+      "descricao": "A obra faz analogia à Criação de Adão, do pintor italiano Michelangelo, colocando a natureza, através de seus galhos, no centro, como protagonista",
+      "tecnica": "uso de giz de cera e lápis de cor em papel A4.",
+      "autor": "Nicolly Coutinho, 2025."
+    },
+
+{
+  "id": "O ULTIMO SUSPIRO VERDE",
+      "titulo": "O Último Suspiro Verde",
+      "descricao": "A obra busca representar que, mesmo em meio a todo o caos causado pela poluição, existe uma árvore em especial, que está sendo protegida pela mãe natureza e que guarda consigo a esperança final",
+      "tecnica": "aquarela sobre papel.",
+      "autor": "Karolyne Oliveira, Lavinya Cortes, Luiza Pereira, Mariana Brysa, Marina Dumas e Yuri Mendonça, 2025."
+    },
+
+{
+  "id": "ESPERANCA",
+      "titulo": "Esperança",
+      "descricao": "O lírio no centro da obra representa a esperança e a renovação florescendo em meio à destruição, representado pelo fundo alaranjado vazio, que remete às chamas. Dessa forma, a obra transmite a resistência da natureza mesmo diante de várias dificuldades e nos dá a esperança de um futuro com mais vida",
+      "tecnica": "desenho e pintura sobre papel.",
+      "autor": "Heloísa Esteves, 2025."
+    },
+
+{
+  "id": "A MAO DO HOMEM",
+      "titulo": "A Mão do Homem",
+      "descricao": "A obra retrata a dualidade entre a destruição humana que traz o caos e a devastação na Terra e a vida que ainda persiste na natureza",
+      "tecnica": "uso de lápis de cor e caneta hidrocor.",
+      "autor": "Ana Beatriz Machado, 2025."
+    },
+
+{
+  "id": "VESTIDA DE MAR",
+      "titulo": "Vestida de Mar",
+      "descricao": "A bailarina com calda de água viva significa beleza perigosa ou graça e fluidez. A água viva é bela, mas também possui suas toxinas, já a bailarina representa elegância e uma certa vulnerabilidade. A ideia é mostrar que nem tudo que vemos como algo leve e vulnerável é realmente o que pensamos",
+      "tecnica": "desenho.",
+      "autor": "Yasmin Fernandes, 2025."
+    },
+
+{
+  "id": "BIODIVERSIDADE",
+      "titulo": "Biodiversidade",
+      "descricao": "A obra retrata um peixe no meio do mar com 'cardumes' de resíduos em sua volta. 'Biodiversidade' representa a degradação dos oceanos, colocando em pauta a futura diversidade biológica que teremos se permanecermos poluindo: ao invés de cardumes de diferentes peixes, teremos cardumes de diferentes lixos. Se cogitamos ter um futuro vivo, em todos os sentidos, precisamos urgentemente alterar o presente",
+      "tecnica": "desenho com uso de lápis grafite e pintura a lápis de cor.",
+      "autor": "Sarah Jenyfer, 2025."
+    },
+
+{
+  "id": "NATUREZA MORTA",
+      "titulo": "Natureza Morta",
+      "descricao": "Fala sobre como os humanos um dia irão acabar com toda fauna e flora e causarão a própria extinção também",
+      "tecnica": "desenho a lápis grafite com pintura a lápis de cor e caneta hidrográfica.",
+      "autor": "Bianca Gonzaga, 2025."
+    },
+
+{
+  "id": "REALIDADE?",
+      "titulo": "Realidade?",
+      "descricao": "Representa a diferença entre um mundo ideal (dentro das câmeras) e a realidade sombria",
+      "tecnica": "desenho e colagem.",
+      "autor": "Bianca Ferreira, 2025."
+    },
+
+{
+  "id": "THE VISION",
+      "titulo": "The Vision",
+      "descricao": "A obra foi pensada a partir de como o meio ambiente está se transformando: a visão de um peixe (de uma vida nas águas) assistindo a como o mundo (terrestre) era e como está nos dias atuais",
+      "tecnica": "desenho.",
+      "autor": "Gabrielly Jardim, 2025."
+    },
+
+{
+  "id": "RAIZES DA TECNOLOGIA",
+      "titulo": "Raízes da Tecnologia",
+      "descricao": "A imagem retrata uma cidade futurista flutuante, onde tecnologia e natureza coexistem em harmonia. Os prédios modernos e tecnológicos estão entrelaçados com árvores e vegetação, mostrando que o progresso não precisa acontecer à custa do meio ambiente",
+      "tecnica": "desenho.",
+      "autor": "Isabella Aguiar, Maitê Motta, Maria Julia Passeri e Sabrina Avelino, 2025."
+    },
+
+{
+  "id": "CONSUMUNDO",
+      "titulo": "Consumundo",
+      "descricao": "A obra é uma representação da dependência do ser humano para com a tecnologia inventada por ele mesmo, significando não só um atraso no desenvolvimento próprio de novas gerações como uma ridícula necessidade dos meios eletrônicos para viver",
+      "tecnica": "desenho a lápis, pintura com tinta guache e contorno com caneta esferográfica preta.",
+      "autor": "Isabella Lucena e Maria Eduarda Lins, 2025."
+    },
+
+{
+  "id": "O ULTIMO SUSPIRO DA NATUREZA",
+      "titulo": "O Último Suspiro da Natureza",
+      "descricao": "Desenho produzido para demonstrar como o ser humano está acabando com o planeta através da poluição e queimadas",
+      "tecnica": "desenho.",
+      "autor": "Beatriz Rezende, Breno Ferreira, Brian Santana e Rafael Cardoso, 2025."
+    },
+
+{
+  "id": "POR TRAS DA PAZ",
+      "titulo": "Por Trás da Paz",
+      "descricao": "O conceito da arte reside na falsa impressão de uma natureza bela e saudável. Retratando, assim, como o mundo não está recebendo a atenção e os cuidados necessários para sua existência",
+      "tecnica": "grafite e giz a óleo.",
+      "autor": "Maria Olivia, 2025."
+    },
+{
+  "id": "ATUALIZE SUA REVOLTA",
+      "titulo": "Atualize Sua Revolta",
+      "descricao": "A obra faz referência ao filme 'Jogos Vorazes', uma distopia em que os três dedos representados são símbolo de resistência de uma revolução contra um tirano. A ideia é dizer que, tiranos seríamos nós, que exploramos tanto a natureza que, a revolução como vista no filme, deveria acontecer, a começar com nós mesmos, nos impedindo de tanta maldade com o planeta",
+      "tecnica": "desenho com tinta sobre papel.",
+      "autor": "Beatriz Fontoura, Camila Almeida, 2025."
+    },
+
+{
+  "id": "RECICLE A VIDA",
+      "titulo": "Recicle a Vida",
+      "descricao": "Entre favelas e grandes centros, pistas e pontos turísticos, a natureza é representada dentro de uma lixeira de recicláveis. O desenho representa o que mais acontece e aconteceu, nos processos de construções feitos pelos humanos, onde a natureza é destruída para que os bens materiais dos humanos ocupem seu lugar",
+      "tecnica": "desenho feito em papel A4 com caneta preta e lápis de cor.",
+      "autor": "Beatriz Carollo e Daniel Mureb, 2025."
+    },
+
+{
+  "id": "PASSAREDO",
+      "titulo": "Passaredo",
+      "descricao": "A obra foi inspirada na música 'Passaredo' escrita por Chico Buarque, que fala sobre a relação dos animais com o homem e principalmente da caça ilegal no Brasil. Com a onça pintada representando estes animais que são caçados, levando à sua extinção, e com os respingos em vermelho representando a caça fruto da ação humana",
+      "tecnica": "desenho com uso de lápis grafite e tinta guache vermelha.",
+      "autor": "Ariane dos Santos, Isabel Fernandes e Isabelle Pavani, 2025."
+    }
+
+	]
+}
+
+
