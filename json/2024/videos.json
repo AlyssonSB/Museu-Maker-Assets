@@ -2,7 +2,22 @@
     "videos": [
         {
             "id": "video_001",
-            "title": "Museu Maker — Uma Experiência Digital de Produção Estudantil [FECTI 2025]",
+            "title": "Da Vintage",
+            "link": "https://youtu.be/TO7rCNbMoP0?si=4ZIE90lgx0bcIq9a"
+        },
+        {
+            "id": "video_002",
+            "title": "Dia a Dia",
+            "link": "https://youtu.be/TO7rCNbMoP0?si=4ZIE90lgx0bcIq9a"
+        },
+        {
+            "id": "video_003",
+            "title": "Mundo Intatil",
+            "link": "https://youtu.be/TO7rCNbMoP0?si=4ZIE90lgx0bcIq9a"
+        },
+        {
+            "id": "video_004",
+            "title": "The New 1984",
             "link": "https://youtu.be/TO7rCNbMoP0?si=4ZIE90lgx0bcIq9a"
         }
     ]
