@@ -7,12 +7,14 @@ def generate_index(base_folder):
     if not os.path.exists(base_folder):
         return
 
+
     for year in os.listdir(base_folder):
 
         year_path = os.path.join(
             base_folder,
             year
         )
+
 
         if not os.path.isdir(year_path):
             continue
@@ -28,11 +30,46 @@ def generate_index(base_folder):
                 item
             )
 
-            if os.path.isdir(item_path):
+
+            if not os.path.isdir(item_path):
+                continue
+
+
+            metadata_path = os.path.join(
+                item_path,
+                "metadata.json"
+            )
+
+
+            if not os.path.exists(metadata_path):
+                print(
+                    f"Sem metadata: {item_path}"
+                )
+                continue
+
+
+            try:
+
+                with open(
+                    metadata_path,
+                    "r",
+                    encoding="utf-8"
+                ) as file:
+
+                    metadata = json.load(file)
+
 
                 items.append({
-                    "id": item
+                    "id": metadata.get("id", item),
+                    "title": metadata.get("title", "Sem título")
                 })
+
+
+            except Exception as error:
+
+                print(
+                    f"Erro lendo {metadata_path}: {error}"
+                )
 
 
         index = {
@@ -62,7 +99,7 @@ def generate_index(base_folder):
 
 
         print(
-            f"Gerado: {output}"
+            f"Gerado: {output} ({len(items)} itens)"
         )
 
 
