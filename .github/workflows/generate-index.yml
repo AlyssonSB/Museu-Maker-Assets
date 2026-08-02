@@ -1,0 +1,31 @@
+name: Generate Museum Index
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-index:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate indexes
+        run: python generate_indexes.py
+
+      - name: Commit generated indexes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add .
+
+          git commit -m "Auto generate indexes" || exit 0
+
+          git push
