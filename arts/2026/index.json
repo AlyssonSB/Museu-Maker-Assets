@@ -1,4 +1,9 @@
 {
   "year": 2026,
-  "items": []
+  "items": [
+    {
+      "id": "art_002",
+      "title": "Sem título"
+    }
+  ]
 }
