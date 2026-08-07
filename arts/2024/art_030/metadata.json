@@ -1,7 +1,10 @@
 {
   "id": "art_030",
+  "year": 2024,
   "title": "Sensação Das Cores",
   "description": "A obra foi confeccionada pensando na acessibilidade junto à arte. Com esse pensamento, a obra se resume a um quadro contendo 3 cores e a sensação palpável que associamos à elas. Com este propósito, cada uma das cores primárias mantiveram a sua essência. O vermelho, nesta obra, foi representado como a cor de maior rigidez, o amarelo ficou responsável pela ideia de acolhimento e o azul, manteve a imagem de conforto.",
-  "technique": "Colagem, pintura com guache, corte de papel, martelo e pregos, lã e espuma.",
-  "author": "Heloísa Esteves, Isabella Lucena, Lucy Bento e João Santos, 2024"
+  "author": "Heloísa Esteves, Isabella Lucena, Lucy Bento e João Santos",
+  "techniques": [
+    "Escultura"
+  ]
 }
