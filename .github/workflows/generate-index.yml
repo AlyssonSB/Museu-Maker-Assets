@@ -4,28 +4,41 @@ on:
   push:
     branches:
       - main
+    paths:
+      - "videos/**"
+      - "arts/**"
+      - "generate_indexes.py"
 
 jobs:
+
   generate-index:
+
     runs-on: ubuntu-latest
 
     permissions:
       contents: write
 
     steps:
+
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate indexes
-        run: python generate_indexes.py
+      - name: Install FFmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
 
-      - name: Commit generated indexes
+      - name: Generate WebM videos and indexes
+        run: |
+          python generate_indexes.py
+
+      - name: Commit generated files
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
           git add .
 
-          git commit -m "Auto generate indexes" || exit 0
+          git commit -m "Auto generate videos and indexes" || exit 0
 
           git push
