@@ -1,7 +1,10 @@
 {
   "id": "art_017",
+  "year": 2024,
   "title": "O Grande Príncipe",
   "description": "A obra tem como proposta ser uma releitura do livro 'O Pequeno Príncipe' em uma versão tecnológica.",
-  "technique": "Pintura em tela e colagem.",
-  "author": "Raylane dos Santos, 2024"
+  "author": "Raylane dos Santos",
+  "techniques": [
+    "Pintura"
+  ]
 }
