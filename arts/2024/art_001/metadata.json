@@ -1,7 +1,10 @@
 {
   "id": "art_001",
+  "year": 2024,
   "title": "Insomnie Web",
   "description": "A produção da obra tem a intenção de expressar o significado da frase de Dave Eggers: 'a rede não dorme', retratando como as redes sociais permanecem incessantemente ativas, mesmo nas altas horas da noite, com a teia simbolizando que, uma vez preso nesse vício, a libertação torna-se um desafio árduo.",
-  "technique": "Base em papel preto, lápis de cor amarelo, caneta de tintura branca e uso de tinta.",
-  "author": "Júlio Araújo, 2024"
+  "author": "Júlio Araújo",
+  "techniques": [
+    "Desenho"
+  ]
 }
