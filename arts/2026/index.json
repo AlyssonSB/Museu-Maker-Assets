@@ -1,17 +1,4 @@
 {
   "year": 2026,
-  "items": [
-    {
-      "id": "art_002",
-      "title": "sdfgg"
-    },
-    {
-      "id": "art_003",
-      "title": "Teste no modo linux"
-    },
-    {
-      "id": "art_004",
-      "title": "afsddf"
-    }
-  ]
+  "items": []
 }
