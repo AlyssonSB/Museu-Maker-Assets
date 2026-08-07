@@ -1,7 +1,10 @@
 {
   "id": "art_013",
+  "year": 2024,
   "title": "Catfish",
   "description": "A obra retrata como as pessoas utilizam recursos da internet, como inteligência artificial, para fingirem ser alguém que não são.",
-  "technique": "Uso de papelão, lápis grafite, tinta guache e acrílica.",
-  "author": "Larissa de Souza Dantas e Sarah de Castro Silva, 2024"
+  "author": "Larissa de Souza Dantas e Sarah de Castro Silva",
+  "techniques": [
+    "Desenho"
+  ]
 }
