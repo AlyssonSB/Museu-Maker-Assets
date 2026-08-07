@@ -1,7 +1,10 @@
 {
   "id": "art_026",
+  "year": 2024,
   "title": "O Medo",
   "description": "A obra retrata o cenário atual do avanço da inteligência artificial e como isso abre espaço para práticas de pedofilia. O que deveria ser utilizado para facilitar, está sendo usado para atos criminosos.",
-  "technique": "Pintura de tinta acrílica sobre tela.",
-  "author": "Lis Rodrigues e Theo Motta, 2024"
+  "author": "Lis Rodrigues e Theo Motta",
+  "techniques": [
+    "Pintura"
+  ]
 }
