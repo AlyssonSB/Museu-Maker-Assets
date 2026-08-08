@@ -1,7 +1,10 @@
 {
   "id": "art_004",
+  "year": 2024,
   "title": "Juventude Moderna",
   "description": "A obra busca retratar como a juventude moderna vem se tornado cada vez mais um amalgamo com a tecnologia atual e menos humano.",
-  "technique": "Desenho (rachura).",
-  "author": "Pedro Henrique Negreiros, 2024"
+  "author": "Pedro Henrique Negreiros",
+  "techniques": [
+    "Desenho"
+  ]
 }
