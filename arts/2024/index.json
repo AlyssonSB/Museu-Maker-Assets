@@ -2,91 +2,43 @@
   "year": 2024,
   "items": [
     {
-      "id": "art_055",
+      "id": "art_065",
       "title": null
-    },
-    {
-      "id": "art_018",
-      "title": "Você Parece Solitário"
-    },
-    {
-      "id": "art_048",
-      "title": null
-    },
-    {
-      "id": "art_009",
-      "title": "Immersive Technological World"
     },
     {
       "id": "art_058",
       "title": null
     },
     {
-      "id": "art_065",
+      "id": "art_023",
+      "title": "Toque Da Transposição"
+    },
+    {
+      "id": "art_017",
+      "title": "O Grande Príncipe"
+    },
+    {
+      "id": "art_037",
+      "title": "Vícios Tecnológicos"
+    },
+    {
+      "id": "art_067",
       "title": null
     },
     {
-      "id": "art_049",
-      "title": null
+      "id": "art_012",
+      "title": "Os Dois Lados Da Infância"
     },
     {
-      "id": "art_056",
-      "title": null
+      "id": "art_018",
+      "title": "Você Parece Solitário"
     },
     {
-      "id": "art_013",
-      "title": "Catfish"
+      "id": "art_028",
+      "title": "Horoguramu"
     },
     {
-      "id": "art_043",
-      "title": "Neo Madonna"
-    },
-    {
-      "id": "art_088",
-      "title": "adiciono o título "
-    },
-    {
-      "id": "art_005",
-      "title": "Através Da Tela"
-    },
-    {
-      "id": "art_026",
-      "title": "O Medo"
-    },
-    {
-      "id": "art_034",
-      "title": "A Tecnologia e os Seres Humanos"
-    },
-    {
-      "id": "art_064",
-      "title": null
-    },
-    {
-      "id": "art_030",
-      "title": "Sensação Das Cores"
-    },
-    {
-      "id": "art_089",
-      "title": null
-    },
-    {
-      "id": "art_083",
-      "title": null
-    },
-    {
-      "id": "art_042",
-      "title": "Outra Vida"
-    },
-    {
-      "id": "art_077",
-      "title": null
-    },
-    {
-      "id": "art_051",
-      "title": null
-    },
-    {
-      "id": "art_063",
+      "id": "art_060",
       "title": null
     },
     {
@@ -94,35 +46,23 @@
       "title": "Conexão Perdida"
     },
     {
-      "id": "art_012",
-      "title": "Os Dois Lados Da Infância"
+      "id": "art_002",
+      "title": "Nomofobia"
     },
     {
-      "id": "art_067",
+      "id": "art_031",
+      "title": "Evolução Tecnológica"
+    },
+    {
+      "id": "art_080",
       "title": null
     },
     {
-      "id": "art_053",
+      "id": "art_056",
       "title": null
     },
     {
-      "id": "art_054",
-      "title": null
-    },
-    {
-      "id": "art_074",
-      "title": null
-    },
-    {
-      "id": "art_046",
-      "title": null
-    },
-    {
-      "id": "art_066",
-      "title": null
-    },
-    {
-      "id": "art_078",
+      "id": "art_077",
       "title": null
     },
     {
@@ -130,27 +70,55 @@
       "title": null
     },
     {
-      "id": "art_017",
-      "title": "O Grande Príncipe"
+      "id": "art_040",
+      "title": "A Arte Do Corpo Humano"
     },
     {
-      "id": "art_006",
-      "title": "Alienação Viral"
-    },
-    {
-      "id": "art_032",
-      "title": "Abaponet"
-    },
-    {
-      "id": "art_038",
-      "title": "O Boom"
-    },
-    {
-      "id": "art_081",
+      "id": "art_066",
       "title": null
     },
     {
-      "id": "art_068",
+      "id": "art_027",
+      "title": "A Tecnologia E O Mundo"
+    },
+    {
+      "id": "art_084",
+      "title": null
+    },
+    {
+      "id": "art_011",
+      "title": "The Future"
+    },
+    {
+      "id": "art_093",
+      "title": null
+    },
+    {
+      "id": "art_062",
+      "title": null
+    },
+    {
+      "id": "art_015",
+      "title": "Olhos Sem Rosto"
+    },
+    {
+      "id": "art_057",
+      "title": null
+    },
+    {
+      "id": "art_050",
+      "title": null
+    },
+    {
+      "id": "art_042",
+      "title": "Outra Vida"
+    },
+    {
+      "id": "art_019",
+      "title": "Girassol"
+    },
+    {
+      "id": "art_079",
       "title": null
     },
     {
@@ -158,24 +126,52 @@
       "title": "Redes Sociais"
     },
     {
+      "id": "art_068",
+      "title": null
+    },
+    {
+      "id": "art_006",
+      "title": "Alienação Viral"
+    },
+    {
+      "id": "art_053",
+      "title": null
+    },
+    {
+      "id": "art_088",
+      "title": "adiciono o título "
+    },
+    {
       "id": "art_096",
       "title": null
     },
     {
-      "id": "art_076",
+      "id": "art_030",
+      "title": "Sensação Das Cores"
+    },
+    {
+      "id": "art_090",
       "title": null
     },
     {
-      "id": "art_092",
+      "id": "art_054",
       "title": null
     },
     {
-      "id": "art_079",
+      "id": "art_014",
+      "title": "Dublagem Viva"
+    },
+    {
+      "id": "art_044",
       "title": null
     },
     {
-      "id": "art_071",
-      "title": null
+      "id": "art_005",
+      "title": "Através Da Tela"
+    },
+    {
+      "id": "art_004",
+      "title": "Juventude Moderna"
     },
     {
       "id": "art_007",
@@ -186,175 +182,19 @@
       "title": null
     },
     {
-      "id": "art_080",
-      "title": null
-    },
-    {
-      "id": "art_002",
-      "title": "Nomofobia"
-    },
-    {
-      "id": "art_050",
-      "title": null
-    },
-    {
-      "id": "art_003",
-      "title": "A Menina Que Não Sabia Mais Brincar"
-    },
-    {
-      "id": "art_020",
-      "title": "Sonhos Flutuantes"
-    },
-    {
-      "id": "art_027",
-      "title": "A Tecnologia E O Mundo"
-    },
-    {
-      "id": "art_086",
-      "title": null
-    },
-    {
-      "id": "art_033",
-      "title": "Através da Tela de Papel"
-    },
-    {
-      "id": "art_019",
-      "title": "Girassol"
-    },
-    {
-      "id": "art_045",
-      "title": null
-    },
-    {
-      "id": "art_040",
-      "title": "A Arte Do Corpo Humano"
-    },
-    {
-      "id": "art_047",
-      "title": null
-    },
-    {
-      "id": "art_075",
-      "title": null
-    },
-    {
-      "id": "art_061",
-      "title": null
-    },
-    {
-      "id": "art_087",
-      "title": null
-    },
-    {
-      "id": "art_085",
-      "title": null
-    },
-    {
-      "id": "art_022",
-      "title": "Desconectados Dos Corações"
-    },
-    {
-      "id": "art_011",
-      "title": "The Future"
-    },
-    {
-      "id": "art_059",
-      "title": null
-    },
-    {
-      "id": "art_008",
-      "title": "Wall-E Nos Dias Futuros"
-    },
-    {
-      "id": "art_031",
-      "title": "Evolução Tecnológica"
-    },
-    {
-      "id": "art_082",
-      "title": null
-    },
-    {
-      "id": "art_060",
-      "title": null
-    },
-    {
-      "id": "art_062",
-      "title": null
-    },
-    {
-      "id": "art_057",
-      "title": null
-    },
-    {
-      "id": "art_044",
-      "title": null
+      "id": "art_026",
+      "title": "O Medo"
     },
     {
       "id": "art_010",
       "title": "Mal Que Te Consome"
     },
     {
-      "id": "art_024",
-      "title": "Quem Usa?"
-    },
-    {
-      "id": "art_073",
-      "title": null
-    },
-    {
-      "id": "art_091",
-      "title": null
-    },
-    {
-      "id": "art_095",
-      "title": null
-    },
-    {
-      "id": "art_035",
-      "title": "A Noite Urbana Estrelada"
-    },
-    {
-      "id": "art_039",
-      "title": "A Nova Era"
-    },
-    {
-      "id": "art_094",
-      "title": null
-    },
-    {
-      "id": "art_015",
-      "title": "Olhos Sem Rosto"
-    },
-    {
-      "id": "art_004",
-      "title": "Juventude Moderna"
-    },
-    {
       "id": "art_016",
       "title": "O Muro"
     },
     {
-      "id": "art_029",
-      "title": "Caminho Do Futuro"
-    },
-    {
-      "id": "art_090",
-      "title": null
-    },
-    {
-      "id": "art_037",
-      "title": "Vícios Tecnológicos"
-    },
-    {
-      "id": "art_072",
-      "title": null
-    },
-    {
-      "id": "art_070",
-      "title": null
-    },
-    {
-      "id": "art_084",
+      "id": "art_045",
       "title": null
     },
     {
@@ -362,28 +202,188 @@
       "title": "Insomnie Web"
     },
     {
-      "id": "art_093",
+      "id": "art_064",
       "title": null
     },
     {
-      "id": "art_023",
-      "title": "Toque Da Transposição"
+      "id": "art_047",
+      "title": null
     },
     {
-      "id": "art_014",
-      "title": "Dublagem Viva"
+      "id": "art_059",
+      "title": null
     },
     {
-      "id": "art_025",
-      "title": "O Futuro Atrás Do Belo"
+      "id": "art_086",
+      "title": null
+    },
+    {
+      "id": "art_094",
+      "title": null
+    },
+    {
+      "id": "art_039",
+      "title": "A Nova Era"
+    },
+    {
+      "id": "art_048",
+      "title": null
+    },
+    {
+      "id": "art_020",
+      "title": "Sonhos Flutuantes"
+    },
+    {
+      "id": "art_024",
+      "title": "Quem Usa?"
+    },
+    {
+      "id": "art_063",
+      "title": null
+    },
+    {
+      "id": "art_089",
+      "title": null
+    },
+    {
+      "id": "art_074",
+      "title": null
+    },
+    {
+      "id": "art_035",
+      "title": "A Noite Urbana Estrelada"
     },
     {
       "id": "art_041",
       "title": "Monatec"
     },
     {
-      "id": "art_028",
-      "title": "Horoguramu"
+      "id": "art_013",
+      "title": "Catfish"
+    },
+    {
+      "id": "art_032",
+      "title": "Abaponet"
+    },
+    {
+      "id": "art_071",
+      "title": null
+    },
+    {
+      "id": "art_049",
+      "title": null
+    },
+    {
+      "id": "art_072",
+      "title": null
+    },
+    {
+      "id": "art_082",
+      "title": null
+    },
+    {
+      "id": "art_091",
+      "title": null
+    },
+    {
+      "id": "art_076",
+      "title": null
+    },
+    {
+      "id": "art_087",
+      "title": null
+    },
+    {
+      "id": "art_003",
+      "title": "A Menina Que Não Sabia Mais Brincar"
+    },
+    {
+      "id": "art_061",
+      "title": null
+    },
+    {
+      "id": "art_095",
+      "title": null
+    },
+    {
+      "id": "art_033",
+      "title": "Através da Tela de Papel"
+    },
+    {
+      "id": "art_038",
+      "title": "O Boom"
+    },
+    {
+      "id": "art_078",
+      "title": null
+    },
+    {
+      "id": "art_081",
+      "title": null
+    },
+    {
+      "id": "art_092",
+      "title": null
+    },
+    {
+      "id": "art_085",
+      "title": null
+    },
+    {
+      "id": "art_008",
+      "title": "Wall-E Nos Dias Futuros"
+    },
+    {
+      "id": "art_083",
+      "title": null
+    },
+    {
+      "id": "art_009",
+      "title": "Immersive Technological World"
+    },
+    {
+      "id": "art_055",
+      "title": null
+    },
+    {
+      "id": "art_029",
+      "title": "Caminho Do Futuro"
+    },
+    {
+      "id": "art_073",
+      "title": null
+    },
+    {
+      "id": "art_051",
+      "title": null
+    },
+    {
+      "id": "art_022",
+      "title": "Desconectados Dos Corações"
+    },
+    {
+      "id": "art_075",
+      "title": null
+    },
+    {
+      "id": "art_046",
+      "title": null
+    },
+    {
+      "id": "art_043",
+      "title": "Neo Madonna"
+    },
+    {
+      "id": "art_025",
+      "title": "O Futuro Atrás Do Belo"
+    },
+    {
+      "id": "art_034",
+      "title": "A Tecnologia e os Seres Humanos"
+    },
+    {
+      "id": "art_070",
+      "title": null
     }
   ]
 }
