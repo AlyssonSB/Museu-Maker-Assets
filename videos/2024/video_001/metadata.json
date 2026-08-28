@@ -1,8 +1,8 @@
 {
   "id": "video_001",
+  "year": 2024,
   "title": "Da Vintage",
   "description": "Um curta que procura fazer uma relação entre o processo de criação da Monalisa e as dificuldades de concentração e engajamento com o ambiente que tecnologias portáteis, como o celular, implicam no nosso dia a dia.",
-  "technique": "Filmagem e Edição.",
   "author": "Ana Carolina Rosa, Lara Fidalgo, Matheus Herllain e Sarah Little.",
-  "link": "https://youtu.be/TO7rCNbMoP0?si=4ZIE90lgx0bcIq9a"
+  "techniques": []
 }
