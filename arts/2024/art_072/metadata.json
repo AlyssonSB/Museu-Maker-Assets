@@ -1,7 +1,10 @@
 {
   "id": "art_072",
-  "title": null,
-  "description": null,
-  "technique": null,
-  "author": null
+  "year": 2024,
+  "title": "Interaline",
+  "description": "Uma obra interativa e inclusiva, envolvendo texturas de um rosto \nhumano com traços robóticos. A ideia foi criada a partir da \nnecessidade de haver uma integração da arte visual com a não visual, \nprocurando aumentar o número de pessoas, proporcionando a \noportunidade de conhecer a arte.",
+  "author": "Laura Betty, Vitória Oliveira e Zaki Jorge",
+  "techniques": [
+    "Escultura"
+  ]
 }
