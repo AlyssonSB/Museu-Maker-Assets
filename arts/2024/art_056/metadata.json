@@ -1,7 +1,10 @@
 {
   "id": "art_056",
-  "title": null,
-  "description": null,
-  "technique": null,
-  "author": null
+  "year": 2024,
+  "title": "A Dama de Telas",
+  "description": "A presente obra trata-se de uma recriação da Senhorita do mangá \nUzumaki, criado por Junji Ito, esta obra engloba o tema de sociedade \ndigital com os detalhes de pequenas telas e fios pelo rosto da \npersonagem.",
+  "author": "inserir",
+  "techniques": [
+    "Pintura"
+  ]
 }
