@@ -1,7 +1,10 @@
 {
   "id": "art_080",
-  "title": null,
-  "description": null,
-  "technique": null,
-  "author": null
+  "year": 2024,
+  "title": "O Vitoso Chip Danificado",
+  "description": "'A obra tenta recriar a cantora Pitty, colocando-a metade humana e metade robô. Fazendo referência a sua música de grande sucesso ''Admirável Chip Novo'' que fala sobre o futuro da humanidade com as novas tecnologias e nos lembra de que mesmo com a evolução tecnológica, devemos manter nossa humanidade e seguir fazendo coisas naturais sem que tudo acabe se tornando artificial. ",
+  "author": "Ana Beatriz Machado, João Pedro Leite, \nHannah Franklin e Nicolas Menezes",
+  "techniques": [
+    "Desenho"
+  ]
 }
