@@ -1,7 +1,10 @@
 {
   "id": "art_013",
-  "title": null,
-  "description": null,
-  "technique": null,
-  "author": null
+  "year": 2025,
+  "title": "A Natureza no Centro",
+  "description": "Inserir",
+  "author": "Inserir",
+  "techniques": [
+    "Pintura"
+  ]
 }
