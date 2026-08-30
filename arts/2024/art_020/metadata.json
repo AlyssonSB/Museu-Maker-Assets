@@ -1,7 +1,10 @@
 {
   "id": "art_020",
+  "year": 2024,
   "title": "Sonhos Flutuantes",
   "description": "A obra retrata a icônica cena da Rapunzel contemplando as luzes flutuantes que simbolizam a fusão entre o mundo dos contos de fadas e a era digital, destacando como os sonhos e as aspirações podem ser iluminados e ampliados pela tecnologia. 'Sonhos flutuantes' reflete a beleza da imaginação e a inovação presente na sociedade moderna, onde o passado e o futuro se encontram de maneira harmoniosa.",
-  "technique": "Desenho, pintura com giz pastel e utilização de LEDs.",
-  "author": "Júlia Oliveira, Julia Gama, Luandra Mota e Maria Clara, 2024"
+  "author": "Júlia Oliveira, Julia Gama, Luandra Mota e Maria Clara",
+  "techniques": [
+    "Desenho"
+  ]
 }
