@@ -1,7 +1,10 @@
 {
   "id": "art_002",
-  "title": null,
-  "description": null,
-  "technique": null,
-  "author": null
+  "year": 2025,
+  "title": "O Último Suspiro Verde",
+  "description": "Inserir",
+  "author": "Inserir",
+  "techniques": [
+    "Pintura"
+  ]
 }
