@@ -1,7 +1,10 @@
 {
   "id": "art_031",
+  "year": 2024,
   "title": "Evolução Tecnológica",
   "description": "A obra pretende mostrar a evolução da internet e da tecnologia desde quando Hedy Lamar inventou o wi-fi até as várias redes sociais que temos hoje. Nessa perspectiva se faz uma analogia ao aumento de sinal de uma rede wi-fi.",
-  "technique": "Desenho com lápis de cor e canetinha.",
-  "author": "Mateus Borelli, 2024"
+  "author": "Mateus Borelli",
+  "techniques": [
+    "Desenho"
+  ]
 }
