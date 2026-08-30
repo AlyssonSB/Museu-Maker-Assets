@@ -1,7 +1,10 @@
 {
   "id": "art_010",
-  "title": "Mal Que Te Consome",
+  "year": 2024,
+  "title": "Mal que te Consome",
   "description": "Essa obra aborda a ideia de escravidão tecnológica, que se dá a partir do vício nas redes sociais na sociedade atual, que destrói a sanidade de muitas pessoas e acaba com o contato humano, mas que traz muito dinheiro para grandes empresas e aplicativos e que, por isso, instigam o uso desses aplicativos sem se preocupar com a vida das pessoas que se machucam com isso.",
-  "technique": "Lápis de cor, lápis 2b, caneta hidrocor preta, e giz de quadro.",
-  "author": "Claudio Nascimento, 2024"
+  "author": "Claudio Nascimento",
+  "techniques": [
+    "Desenho"
+  ]
 }
