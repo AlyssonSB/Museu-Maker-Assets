@@ -1,7 +1,10 @@
 {
   "id": "art_016",
+  "year": 2024,
   "title": "O Muro",
   "description": "Inspirada no trecho do livro O Pequeno Príncipe 'As pessoas são solitárias porque constroem muros ao invés de pontes.', a obra nos apresenta duas mulheres que fisicamente estão no mesmo lugar, conectadas no mundo virtual, em suas redes sociais, e desconectadas do mundo real, construindo um muro entre elas.",
-  "technique": "Desenho e pintura, com uso de lápis, tinta guache e marcador permanente sobre tela.",
-  "author": "Gabriela Marques, 2024"
+  "author": "Gabriela Marques, 2024",
+  "techniques": [
+    "Desenho"
+  ]
 }
