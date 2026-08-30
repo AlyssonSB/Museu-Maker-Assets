@@ -1,7 +1,10 @@
 {
   "id": "art_020",
-  "title": null,
-  "description": null,
-  "technique": null,
-  "author": null
+  "year": 2025,
+  "title": "Mar de Plástico",
+  "description": "Inserir",
+  "author": "Inserir",
+  "techniques": [
+    "Pintura"
+  ]
 }
