@@ -1,7 +1,10 @@
 {
   "id": "art_008",
-  "title": null,
-  "description": null,
-  "technique": null,
-  "author": null
+  "year": 2025,
+  "title": "Renascendo da Natureza",
+  "description": "Inseri",
+  "author": "Inserir",
+  "techniques": [
+    "Pintura"
+  ]
 }
