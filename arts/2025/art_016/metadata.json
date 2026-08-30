@@ -1,7 +1,10 @@
 {
   "id": "art_016",
-  "title": null,
-  "description": null,
-  "technique": null,
-  "author": null
+  "year": 2025,
+  "title": "Cosmomundo",
+  "description": "Inserir",
+  "author": "Inserir",
+  "techniques": [
+    "Pintura"
+  ]
 }
