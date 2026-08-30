@@ -1,8 +1,10 @@
 {
   "id": "art_049",
   "year": 2024,
-  "title": "A NOITE URBANA ESTRELADA",
+  "title": "A Noite Urbana Estrelada",
   "description": "Releitura da obra \"A Noite Estrelada\" de Van Gogh, a pintura retrata a paisagem noturna reimaginada na vida urbana moderna.",
   "author": "Emanuelle Azevedo",
-  "techniques": []
+  "techniques": [
+    "Pintura"
+  ]
 }
