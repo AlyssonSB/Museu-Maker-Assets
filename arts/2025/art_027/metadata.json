@@ -1,7 +1,10 @@
 {
   "id": "art_027",
-  "title": null,
-  "description": null,
-  "technique": null,
-  "author": null
+  "year": 2025,
+  "title": "O Que Há em Mim",
+  "description": "Inserir",
+  "author": "Inserir",
+  "techniques": [
+    "Pintura"
+  ]
 }
