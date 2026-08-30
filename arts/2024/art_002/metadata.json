@@ -1,7 +1,10 @@
 {
   "id": "art_002",
+  "year": 2024,
   "title": "Nomofobia",
   "description": "A arte faz crítica ao tempo de tela dos jovens, ela foi inspirada em uma frase do livro Artemis Fall.",
-  "technique": "Desenho a lápis e canetinha e colagem (para os números).",
-  "author": "Nicolas Souza Oliveira, 2024"
+  "author": "Nicolas Souza Oliveira",
+  "techniques": [
+    "Desenho"
+  ]
 }
