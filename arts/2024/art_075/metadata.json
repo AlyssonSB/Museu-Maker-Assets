@@ -1,8 +1,10 @@
 {
   "id": "art_075",
   "year": 2024,
-  "title": "NEO MADONNA",
+  "title": "Neo Madonna",
   "description": "A obra é uma releitura de \"Madonna\", de Edvard Munch, arte \nmodernista do final do séc. XX. Inserida em televisores, monitores e celulares, como se ela estivesse dentro dessas telas. A proposta é trazer uma arte dos séculos passados para a atualidade, \nmisturando arte e tecnologia.\n",
-  "author": "Gabriela Marques, Giulia Emerick e Yasmim Lima, 2024.",
-  "techniques": []
+  "author": "Gabriela Marques, Giulia Emerick e Yasmim Lima",
+  "techniques": [
+    "Pintura"
+  ]
 }
