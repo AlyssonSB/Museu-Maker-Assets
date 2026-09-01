@@ -2,6 +2,14 @@
   "year": 2025,
   "items": [
     {
+      "id": "art_065",
+      "title": "Yasmin"
+    },
+    {
+      "id": "art_058",
+      "title": "Reinício Verde"
+    },
+    {
       "id": "art_023",
       "title": "A Resistência"
     },
@@ -14,12 +22,20 @@
       "title": null
     },
     {
+      "id": "art_067",
+      "title": "Eyes of the Sea"
+    },
+    {
       "id": "art_012",
       "title": "Esboço de um Futuro"
     },
     {
       "id": "art_018",
       "title": null
+    },
+    {
+      "id": "art_060",
+      "title": "Mundo Redentor"
     },
     {
       "id": "art_021",
@@ -34,12 +50,20 @@
       "title": null
     },
     {
+      "id": "art_056",
+      "title": "A Luz do Mundo"
+    },
+    {
       "id": "art_052",
       "title": "Há Natureza Entre Nós"
     },
     {
       "id": "art_040",
       "title": null
+    },
+    {
+      "id": "art_066",
+      "title": "Olho Vivo"
     },
     {
       "id": "art_027",
@@ -50,8 +74,16 @@
       "title": "Grito Silencioso"
     },
     {
+      "id": "art_062",
+      "title": "Simbiose"
+    },
+    {
       "id": "art_015",
       "title": "A Última Esperança"
+    },
+    {
+      "id": "art_057",
+      "title": "Atualize sua Revolta"
     },
     {
       "id": "art_050",
@@ -76,6 +108,10 @@
     {
       "id": "art_053",
       "title": "Só mais uma (não) faz diferença"
+    },
+    {
+      "id": "art_054",
+      "title": "Mundo Perfeito"
     },
     {
       "id": "art_014",
@@ -118,8 +154,16 @@
       "title": ""
     },
     {
+      "id": "art_064",
+      "title": "A Natureza Escuta"
+    },
+    {
       "id": "art_047",
       "title": "A Morte de Gaia"
+    },
+    {
+      "id": "art_059",
+      "title": "Raízes da Alienação"
     },
     {
       "id": "art_039",
@@ -136,6 +180,10 @@
     {
       "id": "art_024",
       "title": "Recicle a Vida"
+    },
+    {
+      "id": "art_063",
+      "title": "Árvore da Vida"
     },
     {
       "id": "art_035",
@@ -162,6 +210,10 @@
       "title": "Esperança"
     },
     {
+      "id": "art_061",
+      "title": "Pulmão Verde"
+    },
+    {
       "id": "art_033",
       "title": null
     },
@@ -176,6 +228,10 @@
     {
       "id": "art_009",
       "title": null
+    },
+    {
+      "id": "art_055",
+      "title": "Bota da Vida"
     },
     {
       "id": "art_029",
