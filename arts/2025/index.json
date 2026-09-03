@@ -2,139 +2,147 @@
   "year": 2025,
   "items": [
     {
-      "id": "art_065",
-      "title": "Yasmin"
-    },
-    {
-      "id": "art_058",
-      "title": "Reinício Verde"
-    },
-    {
-      "id": "art_023",
-      "title": "A Resistência"
-    },
-    {
-      "id": "art_017",
-      "title": null
-    },
-    {
-      "id": "art_037",
-      "title": null
-    },
-    {
-      "id": "art_067",
-      "title": "Eyes of the Sea"
-    },
-    {
-      "id": "art_012",
-      "title": "Esboço de um Futuro"
-    },
-    {
-      "id": "art_018",
-      "title": null
-    },
-    {
-      "id": "art_060",
-      "title": "Mundo Redentor"
-    },
-    {
-      "id": "art_021",
-      "title": "Por Trás da Paz"
+      "id": "art_036",
+      "title": "Paradisus Personatus"
     },
     {
       "id": "art_002",
       "title": "O Último Suspiro Verde"
     },
     {
-      "id": "art_031",
-      "title": null
-    },
-    {
-      "id": "art_056",
-      "title": "A Luz do Mundo"
-    },
-    {
-      "id": "art_052",
-      "title": "Há Natureza Entre Nós"
-    },
-    {
-      "id": "art_040",
-      "title": null
-    },
-    {
-      "id": "art_066",
-      "title": "Olho Vivo"
-    },
-    {
-      "id": "art_027",
-      "title": "O Que Há em Mim"
-    },
-    {
-      "id": "art_011",
-      "title": "Grito Silencioso"
-    },
-    {
-      "id": "art_062",
-      "title": "Simbiose"
-    },
-    {
-      "id": "art_015",
-      "title": "A Última Esperança"
-    },
-    {
-      "id": "art_057",
-      "title": "Atualize sua Revolta"
-    },
-    {
-      "id": "art_050",
-      "title": "Lixo Aquariano"
-    },
-    {
       "id": "art_042",
       "title": "Carpelo (Carpile)"
     },
     {
-      "id": "art_019",
-      "title": "Natureza Morta"
+      "id": "art_058",
+      "title": "Reinício Verde"
     },
     {
-      "id": "art_036",
-      "title": "Paradisus Personatus"
+      "id": "art_024",
+      "title": "Recicle a Vida"
     },
     {
-      "id": "art_006",
-      "title": "Passaredo"
+      "id": "art_049",
+      "title": "Transcendência da Natureza"
     },
     {
-      "id": "art_053",
-      "title": "Só mais uma (não) faz diferença"
-    },
-    {
-      "id": "art_054",
-      "title": "Mundo Perfeito"
-    },
-    {
-      "id": "art_014",
-      "title": "Presságios do Fim"
+      "id": "art_025",
+      "title": "Mãe Natureza"
     },
     {
       "id": "art_044",
       "title": "Luz e Sombra"
     },
     {
+      "id": "art_032",
+      "title": null
+    },
+    {
+      "id": "art_061",
+      "title": "Pulmão Verde"
+    },
+    {
+      "id": "art_027",
+      "title": "O Que Há em Mim"
+    },
+    {
+      "id": "art_008",
+      "title": "Renascendo da Natureza"
+    },
+    {
+      "id": "art_066",
+      "title": "Olho Vivo"
+    },
+    {
       "id": "art_005",
       "title": null
     },
     {
-      "id": "art_004",
+      "id": "art_064",
+      "title": "A Natureza Escuta"
+    },
+    {
+      "id": "art_009",
       "title": null
     },
     {
-      "id": "art_007",
+      "id": "art_022",
+      "title": "Vestida de Mar"
+    },
+    {
+      "id": "art_017",
       "title": null
     },
     {
-      "id": "art_026",
+      "id": "art_006",
+      "title": "Passaredo"
+    },
+    {
+      "id": "art_043",
+      "title": "Wall-E"
+    },
+    {
+      "id": "art_021",
+      "title": "Por Trás da Paz"
+    },
+    {
+      "id": "art_040",
+      "title": null
+    },
+    {
+      "id": "art_034",
+      "title": "Jardins Sobre Feridas"
+    },
+    {
+      "id": "art_019",
+      "title": "Natureza Morta"
+    },
+    {
+      "id": "art_001",
+      "title": ""
+    },
+    {
+      "id": "art_051",
+      "title": "A Morte da Vida"
+    },
+    {
+      "id": "art_057",
+      "title": "Atualize sua Revolta"
+    },
+    {
+      "id": "art_065",
+      "title": "Yasmin"
+    },
+    {
+      "id": "art_050",
+      "title": "Lixo Aquariano"
+    },
+    {
+      "id": "art_003",
+      "title": "Esperança"
+    },
+    {
+      "id": "art_012",
+      "title": "Esboço de um Futuro"
+    },
+    {
+      "id": "art_063",
+      "title": "Árvore da Vida"
+    },
+    {
+      "id": "art_020",
+      "title": "Mar de Plástico"
+    },
+    {
+      "id": "art_035",
+      "title": null
+    },
+    {
+      "id": "art_031",
+      "title": null
+    },
+    {
+      "id": "art_029",
       "title": null
     },
     {
@@ -142,55 +150,63 @@
       "title": null
     },
     {
-      "id": "art_016",
-      "title": "Cosmomundo"
-    },
-    {
-      "id": "art_045",
-      "title": "Entre Circuitos e Raízes"
-    },
-    {
-      "id": "art_001",
-      "title": ""
-    },
-    {
-      "id": "art_064",
-      "title": "A Natureza Escuta"
-    },
-    {
-      "id": "art_047",
-      "title": "A Morte de Gaia"
-    },
-    {
       "id": "art_059",
       "title": "Raízes da Alienação"
-    },
-    {
-      "id": "art_039",
-      "title": null
     },
     {
       "id": "art_048",
       "title": "Círculo das Águas"
     },
     {
-      "id": "art_020",
-      "title": "Mar de Plástico"
-    },
-    {
-      "id": "art_024",
-      "title": "Recicle a Vida"
-    },
-    {
-      "id": "art_063",
-      "title": "Árvore da Vida"
-    },
-    {
-      "id": "art_035",
+      "id": "art_033",
       "title": null
     },
     {
+      "id": "art_053",
+      "title": "Só mais uma (não) faz diferença"
+    },
+    {
+      "id": "art_056",
+      "title": "A Luz do Mundo"
+    },
+    {
+      "id": "art_062",
+      "title": "Simbiose"
+    },
+    {
       "id": "art_041",
+      "title": null
+    },
+    {
+      "id": "art_015",
+      "title": "A Última Esperança"
+    },
+    {
+      "id": "art_004",
+      "title": null
+    },
+    {
+      "id": "art_039",
+      "title": null
+    },
+    {
+      "id": "art_007",
+      "title": null
+    },
+    {
+      "id": "art_014",
+      "title": "Presságios do Fim"
+    },
+    {
+      "id": "art_052",
+      "title": "Há Natureza Entre Nós"
+    },
+    {
+      "id": "art_045",
+      "title": "Entre Circuitos e Raízes"
+    },
+    {
+      "id": "art_018",
       "title": null
     },
     {
@@ -198,35 +214,15 @@
       "title": "A Natureza no Centro"
     },
     {
-      "id": "art_032",
-      "title": null
+      "id": "art_023",
+      "title": "A Resistência"
     },
     {
-      "id": "art_049",
-      "title": "Transcendência da Natureza"
+      "id": "art_011",
+      "title": "Grito Silencioso"
     },
     {
-      "id": "art_003",
-      "title": "Esperança"
-    },
-    {
-      "id": "art_061",
-      "title": "Pulmão Verde"
-    },
-    {
-      "id": "art_033",
-      "title": null
-    },
-    {
-      "id": "art_038",
-      "title": null
-    },
-    {
-      "id": "art_008",
-      "title": "Renascendo da Natureza"
-    },
-    {
-      "id": "art_009",
+      "id": "art_026",
       "title": null
     },
     {
@@ -234,32 +230,36 @@
       "title": "Bota da Vida"
     },
     {
-      "id": "art_029",
-      "title": null
+      "id": "art_047",
+      "title": "A Morte de Gaia"
     },
     {
-      "id": "art_051",
-      "title": "A Morte da Vida"
-    },
-    {
-      "id": "art_022",
-      "title": "Vestida de Mar"
+      "id": "art_060",
+      "title": "Mundo Redentor"
     },
     {
       "id": "art_046",
       "title": "Coração da Floresta"
     },
     {
-      "id": "art_043",
-      "title": "Wall-E"
+      "id": "art_037",
+      "title": null
     },
     {
-      "id": "art_025",
-      "title": "Mãe Natureza"
+      "id": "art_016",
+      "title": "Cosmomundo"
     },
     {
-      "id": "art_034",
-      "title": "Jardins Sobre Feridas"
+      "id": "art_054",
+      "title": "Mundo Perfeito"
+    },
+    {
+      "id": "art_067",
+      "title": "Eyes of the Sea"
+    },
+    {
+      "id": "art_038",
+      "title": null
     }
   ]
 }
