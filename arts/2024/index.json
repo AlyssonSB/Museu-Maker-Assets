@@ -2,111 +2,155 @@
   "year": 2024,
   "items": [
     {
-      "id": "art_065",
-      "title": "Próxima Geração"
+      "id": "art_076",
+      "title": "Inteligência Artificial NÃO é Arte"
     },
     {
-      "id": "art_058",
-      "title": "Rede Social"
+      "id": "art_036",
+      "title": "Redes Sociais"
     },
     {
-      "id": "art_023",
-      "title": "Internet Está em Todo Lugar"
-    },
-    {
-      "id": "art_017",
-      "title": "O Grande Príncipe"
-    },
-    {
-      "id": "art_037",
-      "title": "Vícios Tecnológicos"
-    },
-    {
-      "id": "art_067",
-      "title": "MONALISA SELFIE"
-    },
-    {
-      "id": "art_012",
-      "title": "Os Dois Lados Da Infância"
-    },
-    {
-      "id": "art_018",
-      "title": "Você Parece Solitário"
-    },
-    {
-      "id": "art_028",
-      "title": "Horoguramu"
-    },
-    {
-      "id": "art_060",
-      "title": "(Procurar)"
-    },
-    {
-      "id": "art_021",
-      "title": "Conexão Perdida"
+      "id": "art_078",
+      "title": "Incerteza"
     },
     {
       "id": "art_002",
       "title": "Nomofobia"
     },
     {
-      "id": "art_031",
-      "title": "Evolução Tecnológica"
+      "id": "art_042",
+      "title": "Outra Vida"
     },
     {
-      "id": "art_080",
-      "title": "O Vitoso Chip Danificado"
+      "id": "art_058",
+      "title": "Rede Social"
     },
     {
-      "id": "art_056",
-      "title": "A Dama de Telas"
+      "id": "art_024",
+      "title": "Quem Usa?"
     },
     {
-      "id": "art_077",
-      "title": "Os Girassóis"
+      "id": "art_049",
+      "title": "A Noite Urbana Estrelada"
     },
     {
-      "id": "art_052",
-      "title": "Não é Magia"
+      "id": "art_102",
+      "title": "Outra Vida"
     },
     {
-      "id": "art_040",
-      "title": "A Arte Do Corpo Humano"
+      "id": "art_025",
+      "title": "O Futuro Atrás Do Belo"
     },
     {
-      "id": "art_066",
-      "title": "Caminhos Cruzados"
+      "id": "art_044",
+      "title": "O Poruabá Tecnológico"
     },
     {
-      "id": "art_100",
-      "title": "Vícios Tecnológicos"
+      "id": "art_096",
+      "title": "A Noite Poluída"
     },
     {
-      "id": "art_104",
-      "title": "Mundo Perfeito"
+      "id": "art_032",
+      "title": "AbapoNET"
+    },
+    {
+      "id": "art_070",
+      "title": "Inserir"
+    },
+    {
+      "id": "art_061",
+      "title": "O BOOM"
     },
     {
       "id": "art_027",
       "title": "A Tecnologia E O Mundo"
     },
     {
-      "id": "art_011",
-      "title": "The Future"
+      "id": "art_008",
+      "title": "Wall-E Nos Dias Futuros"
     },
     {
-      "id": "art_093",
-      "title": "(Procurar)"
+      "id": "art_066",
+      "title": "Caminhos Cruzados"
     },
     {
-      "id": "art_062",
-      "title": "Através da Tela"
+      "id": "art_005",
+      "title": "Através Da Tela"
     },
     {
-      "id": "art_015",
-      "title": "Olhos Sem Rosto"
+      "id": "art_103",
+      "title": "Rede Social"
+    },
+    {
+      "id": "art_064",
+      "title": "A Nova Era"
+    },
+    {
+      "id": "art_009",
+      "title": "Immersive Technological World"
+    },
+    {
+      "id": "art_022",
+      "title": "Desconectados Dos Corações"
+    },
+    {
+      "id": "art_017",
+      "title": "O Grande Príncipe"
+    },
+    {
+      "id": "art_006",
+      "title": "Alienação Viral"
+    },
+    {
+      "id": "art_043",
+      "title": "Neo Madonna"
+    },
+    {
+      "id": "art_021",
+      "title": "Conexão Perdida"
+    },
+    {
+      "id": "art_030",
+      "title": "Sensação Das Cores"
+    },
+    {
+      "id": "art_104",
+      "title": "Mundo Perfeito"
+    },
+    {
+      "id": "art_040",
+      "title": "A Arte Do Corpo Humano"
+    },
+    {
+      "id": "art_034",
+      "title": "A Tecnologia e os Seres Humanos"
+    },
+    {
+      "id": "art_095",
+      "title": "Mundo do Celular"
+    },
+    {
+      "id": "art_019",
+      "title": "Girassol"
+    },
+    {
+      "id": "art_001",
+      "title": "Insomnie Web"
+    },
+    {
+      "id": "art_051",
+      "title": "BLACK HOLE"
     },
     {
       "id": "art_057",
+      "title": "Vícios Tecnológicos"
+    },
+    {
+      "id": "art_065",
+      "title": "Próxima Geração"
+    },
+    {
+      "id": "art_100",
       "title": "Vícios Tecnológicos"
     },
     {
@@ -114,123 +158,19 @@
       "title": "Conexões Perdidas"
     },
     {
-      "id": "art_042",
-      "title": "Outra Vida"
+      "id": "art_028",
+      "title": "Horoguramu"
     },
     {
-      "id": "art_019",
-      "title": "Girassol"
+      "id": "art_003",
+      "title": "A Menina Que Não Sabia Mais Brincar"
     },
     {
-      "id": "art_079",
-      "title": "O Tocar da Fita"
+      "id": "art_012",
+      "title": "Os Dois Lados Da Infância"
     },
     {
-      "id": "art_036",
-      "title": "Redes Sociais"
-    },
-    {
-      "id": "art_068",
-      "title": "(Procurar)"
-    },
-    {
-      "id": "art_006",
-      "title": "Alienação Viral"
-    },
-    {
-      "id": "art_053",
-      "title": "Dualidade"
-    },
-    {
-      "id": "art_088",
-      "title": "TechnoVivência"
-    },
-    {
-      "id": "art_096",
-      "title": "A Noite Poluída"
-    },
-    {
-      "id": "art_030",
-      "title": "Sensação Das Cores"
-    },
-    {
-      "id": "art_090",
-      "title": "Caos Assistido"
-    },
-    {
-      "id": "art_054",
-      "title": "(Procurar)"
-    },
-    {
-      "id": "art_014",
-      "title": "Dublagem Viva"
-    },
-    {
-      "id": "art_044",
-      "title": "O Poruabá Tecnológico"
-    },
-    {
-      "id": "art_005",
-      "title": "Através Da Tela"
-    },
-    {
-      "id": "art_004",
-      "title": "Juventude Moderna"
-    },
-    {
-      "id": "art_007",
-      "title": "Coraline E O Universo Da Tecnologia"
-    },
-    {
-      "id": "art_069",
-      "title": "Android"
-    },
-    {
-      "id": "art_026",
-      "title": "O Medo"
-    },
-    {
-      "id": "art_010",
-      "title": "Mal que te Consome"
-    },
-    {
-      "id": "art_016",
-      "title": "O Muro"
-    },
-    {
-      "id": "art_045",
-      "title": "Monalisa Selfie"
-    },
-    {
-      "id": "art_001",
-      "title": "Insomnie Web"
-    },
-    {
-      "id": "art_064",
-      "title": "A Nova Era"
-    },
-    {
-      "id": "art_047",
-      "title": "Sem Liberdade"
-    },
-    {
-      "id": "art_059",
-      "title": "Raízes do Amanhã"
-    },
-    {
-      "id": "art_086",
-      "title": "(Procurar)"
-    },
-    {
-      "id": "art_094",
-      "title": "Diálogo das Eras"
-    },
-    {
-      "id": "art_039",
-      "title": "A Nova Era"
-    },
-    {
-      "id": "art_048",
+      "id": "art_063",
       "title": null
     },
     {
@@ -238,156 +178,212 @@
       "title": "Sonhos Flutuantes"
     },
     {
-      "id": "art_024",
-      "title": "Quem Usa?"
-    },
-    {
-      "id": "art_063",
-      "title": null
-    },
-    {
-      "id": "art_089",
-      "title": "A Distração Causada Pela Tecnologia no Trabalho"
-    },
-    {
-      "id": "art_074",
-      "title": "(Procurar)"
-    },
-    {
       "id": "art_035",
       "title": "A Noite Urbana Estrelada"
     },
     {
-      "id": "art_041",
-      "title": "Monatec"
-    },
-    {
-      "id": "art_013",
-      "title": "Catfish"
-    },
-    {
-      "id": "art_032",
-      "title": "AbapoNET"
-    },
-    {
-      "id": "art_071",
-      "title": "A ARTE DO CORPO HUMANO"
-    },
-    {
-      "id": "art_049",
-      "title": "A Noite Urbana Estrelada"
-    },
-    {
-      "id": "art_072",
-      "title": "Interaline"
-    },
-    {
-      "id": "art_091",
-      "title": "Calm"
-    },
-    {
-      "id": "art_076",
-      "title": "Inteligência Artificial NÃO é Arte"
-    },
-    {
-      "id": "art_087",
-      "title": "Seus Males"
-    },
-    {
-      "id": "art_003",
-      "title": "A Menina Que Não Sabia Mais Brincar"
-    },
-    {
-      "id": "art_102",
-      "title": "Outra Vida"
-    },
-    {
-      "id": "art_061",
-      "title": "O BOOM"
-    },
-    {
-      "id": "art_095",
-      "title": "Mundo do Celular"
-    },
-    {
-      "id": "art_033",
-      "title": "Através da Tela de Papel"
-    },
-    {
-      "id": "art_038",
-      "title": "O Boom"
-    },
-    {
-      "id": "art_078",
-      "title": "Incerteza"
-    },
-    {
-      "id": "art_101",
-      "title": "A Arte do Corpo Humano"
-    },
-    {
-      "id": "art_092",
-      "title": "Esforço Invisível"
-    },
-    {
-      "id": "art_085",
-      "title": "Ser Impensante"
-    },
-    {
-      "id": "art_008",
-      "title": "Wall-E Nos Dias Futuros"
-    },
-    {
-      "id": "art_009",
-      "title": "Immersive Technological World"
-    },
-    {
-      "id": "art_055",
-      "title": "MÚSICA ENTRE GERAÇÕES"
-    },
-    {
-      "id": "art_103",
-      "title": "Rede Social"
+      "id": "art_031",
+      "title": "Evolução Tecnológica"
     },
     {
       "id": "art_029",
       "title": "Caminho Do Futuro"
     },
     {
+      "id": "art_010",
+      "title": "Mal que te Consome"
+    },
+    {
+      "id": "art_059",
+      "title": "Raízes do Amanhã"
+    },
+    {
+      "id": "art_048",
+      "title": null
+    },
+    {
       "id": "art_073",
       "title": "OUTRA VIDA"
     },
     {
-      "id": "art_051",
-      "title": "BLACK HOLE"
+      "id": "art_074",
+      "title": "(Procurar)"
     },
     {
-      "id": "art_022",
-      "title": "Desconectados Dos Corações"
+      "id": "art_033",
+      "title": "Através da Tela de Papel"
     },
     {
-      "id": "art_075",
-      "title": "Neo Madonna"
+      "id": "art_053",
+      "title": "Dualidade"
+    },
+    {
+      "id": "art_056",
+      "title": "A Dama de Telas"
+    },
+    {
+      "id": "art_080",
+      "title": "O Vitoso Chip Danificado"
+    },
+    {
+      "id": "art_062",
+      "title": "Através da Tela"
+    },
+    {
+      "id": "art_094",
+      "title": "Diálogo das Eras"
+    },
+    {
+      "id": "art_041",
+      "title": "Monatec"
+    },
+    {
+      "id": "art_085",
+      "title": "Ser Impensante"
+    },
+    {
+      "id": "art_015",
+      "title": "Olhos Sem Rosto"
+    },
+    {
+      "id": "art_004",
+      "title": "Juventude Moderna"
+    },
+    {
+      "id": "art_039",
+      "title": "A Nova Era"
+    },
+    {
+      "id": "art_007",
+      "title": "Coraline E O Universo Da Tecnologia"
+    },
+    {
+      "id": "art_014",
+      "title": "Dublagem Viva"
+    },
+    {
+      "id": "art_090",
+      "title": "Caos Assistido"
+    },
+    {
+      "id": "art_052",
+      "title": "Não é Magia"
+    },
+    {
+      "id": "art_069",
+      "title": "Android"
+    },
+    {
+      "id": "art_045",
+      "title": "Monalisa Selfie"
+    },
+    {
+      "id": "art_093",
+      "title": "(Procurar)"
+    },
+    {
+      "id": "art_101",
+      "title": "A Arte do Corpo Humano"
+    },
+    {
+      "id": "art_018",
+      "title": "Você Parece Solitário"
+    },
+    {
+      "id": "art_013",
+      "title": "Catfish"
+    },
+    {
+      "id": "art_023",
+      "title": "Internet Está em Todo Lugar"
+    },
+    {
+      "id": "art_011",
+      "title": "The Future"
+    },
+    {
+      "id": "art_026",
+      "title": "O Medo"
+    },
+    {
+      "id": "art_055",
+      "title": "MÚSICA ENTRE GERAÇÕES"
+    },
+    {
+      "id": "art_047",
+      "title": "Sem Liberdade"
+    },
+    {
+      "id": "art_086",
+      "title": "(Procurar)"
+    },
+    {
+      "id": "art_079",
+      "title": "O Tocar da Fita"
+    },
+    {
+      "id": "art_072",
+      "title": "Interaline"
+    },
+    {
+      "id": "art_060",
+      "title": "(Procurar)"
+    },
+    {
+      "id": "art_091",
+      "title": "Calm"
     },
     {
       "id": "art_046",
       "title": "Através das Telas"
     },
     {
-      "id": "art_043",
+      "id": "art_037",
+      "title": "Vícios Tecnológicos"
+    },
+    {
+      "id": "art_016",
+      "title": "O Muro"
+    },
+    {
+      "id": "art_087",
+      "title": "Seus Males"
+    },
+    {
+      "id": "art_054",
+      "title": "(Procurar)"
+    },
+    {
+      "id": "art_071",
+      "title": "A ARTE DO CORPO HUMANO"
+    },
+    {
+      "id": "art_075",
       "title": "Neo Madonna"
     },
     {
-      "id": "art_025",
-      "title": "O Futuro Atrás Do Belo"
+      "id": "art_068",
+      "title": "(Procurar)"
     },
     {
-      "id": "art_034",
-      "title": "A Tecnologia e os Seres Humanos"
+      "id": "art_089",
+      "title": "A Distração Causada Pela Tecnologia no Trabalho"
     },
     {
-      "id": "art_070",
-      "title": "Inserir"
+      "id": "art_067",
+      "title": "MONALISA SELFIE"
+    },
+    {
+      "id": "art_088",
+      "title": "TechnoVivência"
+    },
+    {
+      "id": "art_092",
+      "title": "Esforço Invisível"
+    },
+    {
+      "id": "art_038",
+      "title": "O Boom"
     }
   ]
 }
